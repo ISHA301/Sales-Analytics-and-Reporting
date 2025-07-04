@@ -119,6 +119,16 @@ Two dynamic Power BI dashboards were created to visualize SQL insights in an int
 
 ---
 
+## 📄 Project Documentation
+
+The following documents provide detailed business analysis and development specifications for the Sales Analytics and Reporting project:
+
+- 📘 [Business Requirements Document (BRD)](https://github.com/ISHA301/Sales-Analytics-and-Reporting/blob/main/Sales_Analytics_BRD.docx)
+- 📙 [Functional Requirements Document (FRD)](https://github.com/ISHA301/Sales-Analytics-and-Reporting/blob/main/Sales_Analytics_FRD.docx)
+- 📝 [User Stories](https://github.com/ISHA301/Sales-Analytics-and-Reporting/blob/main/User%20Stories%20for%20Sales%20Analytics%20and%20Reporting%20Project.docx)
+
+---
+
 ## 📝 Recommendations
 
 - 🎯 Focus marketing on age 40–59 demographic
