@@ -1,4 +1,4 @@
-# 📊 Sales & Revenue Intelligence Dashboard  
+# 📊 Sales Analytics and Reporting 
 **Turning sales data into insights that guide growth, customer value, and product strategy.**  
 SQL-powered analytics + Power BI dashboards enabling data-backed decisions.
 
